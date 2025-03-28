@@ -1,0 +1,11 @@
+nltk
+datasets
+transformers
+evaluate
+torch
+tensorflow
+flax
+jax
+jaxlib
+tf-keras
+accelerate>=0.26.0
